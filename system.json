@@ -1,0 +1,41 @@
+{
+    "name": "Universite de savoie",
+    "groupe": [
+        {
+        	"id": 1,
+        	"label": "INFO913",
+        	"folder": [
+		        {
+		        	"id": 1,
+		        	"label": "tp",
+		        	"file": [
+				        {
+				        	"id": 1,
+				        	"label": "TP3-ToIP"
+				        }
+				    ]
+		        }
+		        {
+		        	"id": 2,
+		        	"label": "td"
+		        }
+		    ]
+        },
+        {	
+        	"id": 2,
+        	"label": "INFO924",
+        	"folder": [
+		        {
+		        	"id": 1,
+		        	"label": "cours",
+		        	"file": [
+				        {
+				        	"id": 1,
+				        	"label": "cour-crm"
+				        }
+				    ]
+		        }
+		    ]
+        }
+    ]
+}
